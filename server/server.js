@@ -9,13 +9,7 @@ app.use(express.json());
 const errorMiddleware = require("./middlewares/error-middleware");
 const cors = require("cors");
 
-
-const corsOptions = {
-    methods: "GET,POST,PUT,DELETE,PATCH,HEAD",
-    credentials: true,
-};
-
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.use("/api/blog", blogRoute);
 app.use("/api/user", userRoute);
