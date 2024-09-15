@@ -1,4 +1,4 @@
-## Blogify
+# Blogify: AI-Powered Blog Generation
 
 Blogify is a web application that enables users to generate blog posts based on keywords using AI. It provides features for user registration, login, and blog generation, allowing users to save drafts and manage their blogs efficiently.
 
@@ -61,9 +61,12 @@ Blogify is a web application that enables users to generate blog posts based on 
 - **Database**  
   The database configuration ensures proper connection to MongoDB and defines how user data and blog drafts are stored.
 
+## Working Demo
+
+You can see a working demo of Blogify [here](https://drive.google.com/file/d/1x6Rf9gQX97cK3_ztzVycKxzMs6TnGpDv/view).
+
 ## Conclusion
 
 Blogify offers a comprehensive platform for generating and managing blog content. With its AI-driven blog generation, user authentication, and draft management, it provides an efficient tool for bloggers to create and organize their content.
 
 For any questions or further information, please contact me at [saurabh.kumar.21cse@bmu.edu.in](mailto:saurabh.kumar.21cse@bmu.edu.in).
-
