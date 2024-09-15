@@ -61,9 +61,18 @@ Blogify is a web application that enables users to generate blog posts based on 
 - **Database**  
   The database configuration ensures proper connection to MongoDB and defines how user data and blog drafts are stored.
 
+## Deployment
+
+- **Frontend**: Deployed on Vercel
+- **Backend**: Deployed on Koyed
+
+## Live Demo
+
+You can access the live version of the deployed Blogify application [here](https://blogify-lilac-three.vercel.app/).
+
 ## Working Demo
 
-You can see a working demo of Blogify [here](https://drive.google.com/file/d/1x6Rf9gQX97cK3_ztzVycKxzMs6TnGpDv/view).
+You can see a working video demo of Blogify [here](https://drive.google.com/file/d/1x6Rf9gQX97cK3_ztzVycKxzMs6TnGpDv/view).
 
 ## Conclusion
 
