@@ -64,7 +64,7 @@ Blogify is a web application that enables users to generate blog posts based on 
 ## Deployment
 
 - **Frontend**: Deployed on Vercel
-- **Backend**: Deployed on Koyed
+- **Backend**: Deployed on Koyeb
 
 ## Live Demo
 
